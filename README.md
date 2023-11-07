@@ -39,4 +39,7 @@
 
     
 ## Сертификаты
-[(https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/274897/e8892b85ae54e70ed3b8ba74db2c704c.png)]()
+- [(https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/274897/e8892b85ae54e70ed3b8ba74db2c704c.png)]()
+- [(https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/288978/d10ba27af06ee2b42e3f3789fe53ad0f.png)]()
+- [(https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/315296/8a5112a850b63976d5c02f7f0badb93e.png)]()
+- [(https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/343291/8f3722c9f0ca30efa864575e03996607.png)]()
