@@ -39,4 +39,4 @@
 
     
 ## Сертификаты
-[<../Desktop/НЕТОЛОГИЯ/Ручное тестирование.pdf>](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/274897/e8892b85ae54e70ed3b8ba74db2c704c.png)
+[(https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/274897/e8892b85ae54e70ed3b8ba74db2c704c.png)]
