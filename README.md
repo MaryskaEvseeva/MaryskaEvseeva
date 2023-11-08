@@ -1,4 +1,4 @@
-[![Header](https://github.com/MaryskaEvseeva/MaryskaEvseeva/blob/main/assets/i%20(2).webp)]()
+   [![Header](https://github.com/MaryskaEvseeva/MaryskaEvseeva/blob/main/assets/i%20(2).webp)]()
 
 ## Обо мне:
 Изучаю тестирование с начал года, заитересовалась контролем качества продукта так, что хочу посвещать ему все время и развиваться. Прочитала книги Савина и Куликова. Сейчас учавствую в Бета-тестировании в mail.ru  и crowd testing MIR PAY.
