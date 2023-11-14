@@ -21,8 +21,11 @@
     https://docs.google.com/spreadsheets/d/1PUh7p97DLO52aL-f0Uq7OeLs5JeYrDrql4aZ2UG5x1o/edit#gid=0
 
     - Задача: подготовить набор тест-кейсов для тестирования календаря https://docs.google.com/spreadsheets/d/10xGczENqznVIFWKLO-aOuIozU1EXj_p7ElmSEqygXOA/edit#gid=0
-
-- Артефакты тестированияю Дефекты.
+  
+    - Задача: подготовить набор тест-кейсов  для тестирования процесса заказа (выбор медиа, управление корзиной, оплата).
+ https://docs.google.com/spreadsheets/d/1DwpO-RlI-TfW4Lv6Zj-RqWXCAUCe88UYpIFflXQko3I/edit#gid=534655191
+ 
+ - Артефакты тестированияю Дефекты.
   - Задача: Дополнить баг-репорты недостоющим содержимым, проставить для каждого баг-репорта severity, тестирование требований к странице карточки товара
   https://docs.google.com/document/d/1qhxoDaXFizzed6SiCSCU7Kguw6LPKJ304i-HEpKIRQ0/edit
 
